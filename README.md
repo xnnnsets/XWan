@@ -9,7 +9,7 @@ Address brute-forcing for quota injection via VMess, Trojan, and VLESS. Command-
 - Tool bekerja secara cepat dan dapat membantu anda mencari address yang cocok
 - Konfigurasi fleksibel untuk Websocket/TCP, TLS/Non TLS
 ## Akurat
-Tool ini memiliki keakuratan 90% jadi sangat membantu anda untuk mencari alamat web/ip yang cocok untuk melakukan injeksi sesuai dengan kuota yang anda gunakan.
+Tool ini memiliki keakuratan 90% jadi sangat membantu anda untuk mencari alamat web/ip yang cocok untuk melakukan injeksi sesuai dengan kuota yang anda gunakan. Gunakan saat tidak ada kuota reguler dan hanya ada kuota yang mau di injeksi.
 ## Kekurangan
 Karena tool ini berbasis CLI dan dijalankan untuk android dengan termux maka ada beberapa cacat bawaan
 - Tidak dapat membuat VPN Interface
