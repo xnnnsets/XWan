@@ -57,6 +57,11 @@ nano list.txt
 python xwan.py
 ```
 - Selamat menggunakan toolsnya >_<
+## Perhatian 
+- Akun jangan bertabrakan, gunakan akun yang tidak dalam kondisi untuk injeksi
+- Pastikan akun stabil dan tidak dalam masalah
+- Jangan ada kuota reguler, hanya ada kuota yang mau di cek bug nya
+- Untuk pengecekan agar lebih pasti ulangi tool lebih dari 1
 ## Laporan 
 Jika ada error pada tool ini bisa langsung lapor langsung lewat telegram
 - [Hubungi saya](https://t.me/otaksenku)
