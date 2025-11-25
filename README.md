@@ -14,6 +14,7 @@ Tool ini memiliki keakuratan 90% jadi sangat membantu anda untuk mencari alamat 
 Karena tool ini berbasis CLI dan dijalankan untuk android dengan termux maka ada beberapa cacat bawaan
 - Tidak dapat membuat VPN Interface
 - Tidak dapat override DNS system
+- Tidak dapat capture semua traffic 
 #### Mengapa akuratnya tidak 100%
 - Tool ini belum bisa bypass DNS menggunakan DoH (DNS Over HTTPS) ataupun DoT (DNS Over TLS)
 - Belum bisa melakukan Fake DNS
