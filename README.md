@@ -1,5 +1,5 @@
 ![Picture tool](https://github.com/wannazid/XWan/blob/main/img.jpg)
-![Version](https://img.shields.io/badge/XWan%20v1.0-blue)
+![Version](https://img.shields.io/badge/XWan%20v2.0-orange)
 # XWan
 Address brute-forcing for quota injection via VMess, Trojan, and VLESS. Command-line based utilizing Xray core v25.10.15.
 ## Kelebihan
