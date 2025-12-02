@@ -1,10 +1,15 @@
 ![Picture tool](https://github.com/wannazid/XWan/blob/main/img.jpg)
 ![Version](https://img.shields.io/badge/XWan%20v2.0-orange)
 # XWan
-Address brute-forcing for quota injection via VMess, Trojan, and VLESS. Command-line based utilizing Xray core v25.10.15.
+Alat yang berfungsi untuk mengecek website/ip address yang bisa digunakan untuk injeksi kuota dengan dukungan Xray-core 25.10.15 serta SSH Websocket.
+## Apa yang baru (v2.0)
+- Bisa menggunakan SSH Websocket (HTTP Proxy,TLS/SSL Proxy)
+- Dapat menggunakan metode Wilcard dan SNI
+- Perbaikan code
+- Scan lebih cepat dari sebelumnya (v1.0)
 ## Kelebihan
 - Aman karena tidak akan meyimpan log akun anda karena tool ini open source
-- Multi protocol support seperti VMess,Trojan dan VLESS
+- Multi protocol support seperti VMess,Trojan, VLess
 - Dapat melalukan cek secara bersamaan
 - Tool bekerja secara cepat dan dapat membantu anda mencari address yang cocok
 - Konfigurasi fleksibel untuk Websocket/TCP, TLS/Non TLS
