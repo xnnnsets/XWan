@@ -34,7 +34,7 @@ Karena tool ini berbasis CLI dan dijalankan untuk android dengan termux maka ada
 ## Cara Install
 ### Versi video
 [![Watch the demo](https://img.youtube.com/vi/CG95PPK2dKI/hqdefault.jpg)](https://youtu.be/CG95PPK2dKI)
-*Klik thumbnail di atas untuk menonton demo XWan v2.0*)
+*Klik thumbnail di atas untuk menonton*)
 
 Tool ini khusus untuk android dengan arsitektur (arm64) dan saran saya menggunakan termux.
 - Masuk termux dan masukan command berikut secara berurutan:
