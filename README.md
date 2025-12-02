@@ -32,6 +32,10 @@ Karena tool ini berbasis CLI dan dijalankan untuk android dengan termux maka ada
 - Tool ini belum bisa bypass DNS menggunakan DoH (DNS Over HTTPS) ataupun DoT (DNS Over TLS)
 - Belum bisa melakukan Fake DNS
 ## Cara Install
+### 🎬 Demo Video
+[![Watch the demo](https://img.youtube.com/vi/CG95PPK2dKI/maxresdefault.jpg)](https://youtu.be/CG95PPK2dKI)
+*Klik thumbnail di atas untuk menonton demo XWan v2.0*)
+
 Tool ini khusus untuk android dengan arsitektur (arm64) dan saran saya menggunakan termux.
 - Masuk termux dan masukan command berikut secara berurutan:
 ```
