@@ -1,5 +1,11 @@
 ![Picture tool](https://github.com/wannazid/XWan/blob/main/img.jpg)
-![Version](https://img.shields.io/badge/XWan%20v2.0-orange)
+![XWan](https://img.shields.io/badge/XWAN-v2.0-blue?style=for-the-badge&logo=probot&logoColor=white)
+![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge&logo=git&logoColor=white)
+![Xray-core](https://img.shields.io/badge/Xray--core-v25.10.15-orange?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![License](https://img.shields.io/github/license/wannazid/XWan?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/wannazid/XWan?style=for-the-badge&color=green)
+![GitHub stars](https://img.shields.io/github/stars/wannazid/XWan?style=for-the-badge&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/wannazid/XWan?style=for-the-badge&color=blue)
 # XWan
 Alat yang berfungsi untuk mengecek website/ip address yang bisa digunakan untuk injeksi kuota dengan dukungan Xray-core 25.10.15 serta SSH Websocket.
 ## Apa yang baru (v2.0)
