@@ -13,6 +13,27 @@ Alat yang berfungsi untuk mengecek website/ip address yang bisa digunakan untuk 
 - Dapat menggunakan metode Wilcard dan SNI
 - Perbaikan code
 - Scan lebih cepat dari sebelumnya (v1.0)
+## Cara update v1.0 ke v2.0
+Ketik command dibawah ini secara berurutan di termux:
+```
+cd ~
+```
+```
+rm -rf XWan
+```
+```
+git clone https://github.com/wannazid/XWan
+```
+```
+cd XWan
+```
+```
+nano list.txt
+```
+Isi ulang website/ip address dari kuota yang mau di inject, jika sudah CTRL+X -> CTRL+Y -> ENTER
+```
+python xwan.py
+```
 ## Kelebihan
 - Aman karena tidak akan meyimpan log akun anda
 - Multi protocol support seperti VMess,Trojan, VLess
