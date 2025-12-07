@@ -94,6 +94,7 @@ nano list.txt
 ```
 python xwan.py
 ```
+![Tool](https://github.com/wannazid/XWan/blob/main/tool.jpg)
 - Selamat menggunakan toolsnya >_<
 ## Perhatian 
 - Akun jangan bertabrakan, gunakan akun yang tidak dalam kondisi untuk injeksi
